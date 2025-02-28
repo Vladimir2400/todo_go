@@ -1,0 +1,25 @@
+2025/02/28 09:55:14 Application started.
+2025/02/28 09:55:14 Starting the application...
+2025/02/28 09:55:14 DB connection established.
+2025/02/28 09:55:14 database migrated.
+2025/02/28 09:55:14 server is running on :8080
+2025/02/28 09:57:45 GET /api/tasks request received
+2025/02/28 09:57:45 GET /api/tasks request completed
+2025/02/28 10:59:13 Application started.
+2025/02/28 10:59:13 Starting the application...
+2025/02/28 10:59:13 DB connection established.
+2025/02/28 10:59:13 database migrated.
+2025/02/28 10:59:13 server is running on :8080
+2025/02/28 11:26:48 Request: GET /api/tasks
+2025/02/28 11:26:48 GET /api/tasks request received
+2025/02/28 11:26:48 GET /api/tasks request completed
+2025/02/28 11:26:48 Response: GET /api/tasks (22.452511ms)
+2025/02/28 18:32:02 Application started.
+2025/02/28 18:32:02 Starting the application...
+2025/02/28 18:32:02 DB connection established.
+2025/02/28 18:32:02 database migrated.
+2025/02/28 18:32:02 server is running on :8080
+2025/02/28 18:32:17 Request: GET /api/tasks
+2025/02/28 18:32:17 GET /api/tasks request received
+2025/02/28 18:32:17 GET /api/tasks request completed
+2025/02/28 18:32:17 Response: GET /api/tasks (4.912227ms)
